@@ -1,15 +1,7 @@
-### GoogleChatApi 0.0.1
+# GoogleChatApi 0.0.1
 
 - Only for Cards in google Hangouts bot
 - Work in progress
-
-# GoogleChatApi 0.0.1
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 # Usage
 ## Message Object
