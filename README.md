@@ -6,7 +6,6 @@
 # GoogleChatApi 0.0.1
 
 **Table of Contents**
-+ [GoogleChatApi 0.0.1](#googlechatapi-001)
 - [GoogleChatApi 0.0.1](#googlechatapi-001-1)
 - [Usage](#usage)
   * [Message Object](#message-object)
