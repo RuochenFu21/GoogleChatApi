@@ -1,7 +1,22 @@
+### GoogleChatApi 0.0.1
+
+- Only for Cards in google Hangouts bot **YET**
+- Work in progress
+
 # GoogleChatApi 0.0.1
 
-- Only for Cards in google Hangouts bot
-- Work in progress
+**Table of Contents**
++ [GoogleChatApi 0.0.1](#googlechatapi-001)
+- [GoogleChatApi 0.0.1](#googlechatapi-001-1)
+- [Usage](#usage)
+  * [Message Object](#message-object)
+    + [Card Object](#card-object)
+      - [Header](#header)
+      - [Widgets](#widgets)
+        * [Text Paragraph](#text-paragraph)
+  * [Adding them all up](#adding-them-all-up)
+  * [Sending them](#sending-them)
+
 
 # Usage
 ## Message Object
