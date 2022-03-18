@@ -5,7 +5,7 @@ from typing import *
 from httplib2 import Http
 
 
-class Card:
+class Message:
     selflist: list[Dict]
 
     def __init__(self, selflist=[]):
