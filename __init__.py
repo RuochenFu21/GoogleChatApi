@@ -8,8 +8,8 @@ from httplib2 import Http
 class Message:
     selflist: list[Dict]
 
-    def __init__(self, selflist=[]):
-        self.selflist = selflist
+    def __init__(self):
+        self.selflist = []
 
     def send(self, where: str) -> dict:
         """
