@@ -1,5 +1,4 @@
 from json import dumps
-
 from typing import *
 
 from httplib2 import Http
