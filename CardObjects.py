@@ -21,4 +21,18 @@ def Header(item: list) -> dict:
 
 
 def TextParagraph(text: str) -> dict:
+    """
+    Text Paragraph
+    Support Html Text
+    :param text: HTML Text Object
+    :return: TextParagraph
+    """
     return {"textParagraph": {"text": text}}
+
+
+def Image(ImageUrl: str, Onclick: str = None):
+    if Onclick is None:
+        return {"image": {"imageUrl": ImageUrl}}
+    if type(Onclick) == type(''):
+        return {"image": {"imageUrl": ImageUrl, "onClick": {"openLink": {"url": Onclick}}}}
+    return {"image": {"imageUrl": ImageUrl, "onClick": Onclick}}
