@@ -51,5 +51,5 @@
 	CardObj.AddWidget(widgets) # Add the widget to the Card
 	message.addCardObj(CardObj) # Add the Card!
 ## Sending them
-	CardObj.send("<The Bot Url>") 
+	message.send("<The Bot Url>") 
 finally, after this whole lot of code, you now sent the message!
