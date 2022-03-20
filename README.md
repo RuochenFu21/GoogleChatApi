@@ -64,7 +64,7 @@ finally, after this whole lot of code, you now sent the message!
 -- -
 ## Change Log
 
-## 0.0.2 (19-03-2022)
+## 0.0.2 (20-03-2022)
 ### Bug Fixed
 - Readme "Sending them" problem fixed
 
