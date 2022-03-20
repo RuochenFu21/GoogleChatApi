@@ -65,7 +65,6 @@ finally, after this whole lot of code, you now sent the message!
 ## Change Log
 
 ## 0.0.2 (19-03-2022)
- -- -
 ### Bug Fixed
 - Readme "Sending them" problem fixed
 
@@ -74,7 +73,6 @@ finally, after this whole lot of code, you now sent the message!
 - Change Log
 
 ## 0.0.1 (17-03-2022)
- -- -
 ### Features
 - Readme Added
 - Have access to Send a card message
