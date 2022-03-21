@@ -6,7 +6,6 @@
 # GoogleChatApi 0.0.2
 
 ![](https://img.shields.io/badge/language-python-yellow.svg) ![](https://img.shields.io/badge/python-package-green.svg)
-
 **Table of Contents**
 - [Usage](#usage)
   * [Message Object](#message-object)
