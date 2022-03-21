@@ -1,4 +1,4 @@
-### GoogleChatApi 0.0.2
+## GoogleChatApi 0.0.2
 
 - Newest **Testing Version!**
 - Only for Cards in google Hangouts bot **YET**
