@@ -53,3 +53,4 @@ class Message:
 
     def AddCardObj(self, CardObj):
         self.selflist.append(CardObj.items)
+
